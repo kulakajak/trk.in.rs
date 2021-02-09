@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRK INOVACIJE DOO</title>
+    <description>TRK INOVACIJE doo
+</description>
+    <link>http://www.trk.in.rs/</link>
+    <atom:link href="http://www.trk.in.rs/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Feb 2021 16:30:25 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Feb 2021 16:30:25 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+  </channel>
+</rss>
